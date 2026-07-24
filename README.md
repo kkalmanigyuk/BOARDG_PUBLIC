@@ -1,6 +1,6 @@
 BOARDG - Eszközök és társajátékok kölcsönzését támogató alkalmazás könyvtárak, közgyűjtemények számára.
 
-A program Python yelven készült, nyílt forráskódú, szabadon felhasználható és módosítható, eredeti készítője Károlyi Kálmán (Illyés Gyula Könyvtár)
+A program Python nyelven készült, nyílt forráskódú, szabadon felhasználható és módosítható, eredeti készítője Károlyi Kálmán (Illyés Gyula Könyvtár)
 
 Felhasznált könyvtárak: tkinter, sqlite3, os, json, xmltree
 
