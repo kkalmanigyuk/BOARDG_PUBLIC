@@ -1,6 +1,6 @@
 BOARDG - Eszközök és társajátékok kölcsönzését támogató alkalmazás könyvtárak, közgyűjtemények számára.
 
-A program vibe codinggal (ChatGPT), Python nyelven készült, nyílt forráskódú, szabadon felhasználható és módosítható, eredeti készítője Károlyi Kálmán (Illyés Gyula Könyvtár)
+A program vibe codinggal (ChatGPT), Python nyelven készült, nyílt forráskódú, szabadon felhasználható és módosítható, eredeti készítője Károlyi Kálmán (Illyés Gyula Könyvtár), karolyikalman.igyuk@gmail.com
 
 Felhasznált könyvtárak: tkinter, sqlite3, os, json, xmltree
 
