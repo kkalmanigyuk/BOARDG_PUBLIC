@@ -41,14 +41,6 @@ CHECKOUT_PDF_PATH = config["paths"]["kölcsönzések"]
 CHECKIN_PDF_PATH = config["paths"]["visszavételek"]
 MISSING_PDF_PATH = config["paths"]["hiánylisták"]
 
-# ---- Hardcoded elérési utak ----
-# # SIP2 szerver adatok
-# SIP2_SERVER = 'corvina.igyuk.hu'
-# SIP2_PORT = 5192
-# TERMINAL_PASSWORD = 'EXTPROG'  # Add meg a terminál jelszavát, ha szükséges
-# DB_NAME = "boardgames5.db"
-
-
 
 
 class GameCheckApp:
